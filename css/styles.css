@@ -1,0 +1,71 @@
+/* Bootstrap Shutterbugg project stylesheet
+font-family: "Rubik", sans-serif;
+font-family: "Slabo 27px", serif;
+font-family: "Special Elite", cursive; 
+*/
+
+div.container {
+	max-width: 1000px;
+}
+
+div.main {
+	background-image: url("../images/intro.jpg");
+	height: 560px;
+	background-position: cover;
+	background-attachment: fixed;
+	padding-top: 5%;
+}
+
+div.main h1 {
+	font-family: "Special Elite", cursive;
+	font-size: 3.5em;
+	text-shadow: rgb(200, 100, 100) 3px -2px 2px;
+}
+
+div.main h2 {
+	font-family: "Rubik", sans-serif;
+	margin-bottom: 6%;
+}
+
+div.main a.btn {
+	background-color: rgb(200, 100, 100);
+	font-size: 1.5em;
+	color: white;
+	border-radius: 30px;
+}
+
+div.section {
+	padding-top: 3%;
+}
+
+div.row h1 {
+	font-family: "Slabo 27px", serif;
+}
+
+div.row p {
+	font-family: "Special Elite", cursive; 
+	font-size: 1.5em;
+}
+
+div#store {
+	text-align: center;
+	padding-top: 3%;
+}
+
+div#store img {
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
